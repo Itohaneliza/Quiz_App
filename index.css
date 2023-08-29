@@ -70,3 +70,15 @@ button{
 .finish button{
     text-align: center;
 }
+
+
+
+/* media query************** */
+
+@media(max-width:576px){
+   body h2{
+        padding: 20px;
+        align-items: center;
+        justify-content: center;
+    }
+}
